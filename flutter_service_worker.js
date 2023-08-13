@@ -3,14 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b54a52b911884b6c7a532e78ee552acb",
-"assets/AssetManifest.json": "3e23e902263654b8c4cb25b43fc43efb",
+const RESOURCES = {"assets/AssetManifest.bin": "184e05a8c80cd9a081c0631c617305bb",
+"assets/AssetManifest.json": "3b1be0f8f9ca552d995e39890bfbf02d",
 "assets/assets/calendar.svg": "a1bac37e383a98a50e978164c92164b0",
 "assets/assets/dollar-sign.svg": "a1c1cc75a2fedc8417188276c01c91ca",
 "assets/assets/file-text.svg": "9e7091ec99f6bb0fcfd8c60814730207",
 "assets/assets/Group%2520219.svg": "0350ff098aa63a725a6a360d68efd9d1",
 "assets/assets/Group%2520364.svg": "b87327514f5de82eaa51561253aebd08",
 "assets/assets/home.svg": "ed7d391c3dff3c90f09954596547b19b",
+"assets/assets/main-icon.png": "b4ff80cb5c12f2812ed248e179630587",
 "assets/assets/Path%2520762.svg": "d3b6ce6973ecc3098179c2824ea9bbce",
 "assets/assets/Path%2520763.svg": "b440dd0de4870264a29c277f484695e0",
 "assets/assets/Path%2520782.svg": "3f45aefd5bb1cfbebe1aa6531ca59a5c",
@@ -40,9 +41,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "b54a52b911884b6c7a532e78ee552acb
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f2ce27a8d3070d237987f1eeb7416b58",
-"/": "f2ce27a8d3070d237987f1eeb7416b58",
-"main.dart.js": "11b6bd548ceec679e5aff35a819e781d",
+"index.html": "4a7262a9512ee8c85366677d148ffeaa",
+"/": "4a7262a9512ee8c85366677d148ffeaa",
+"main-icon.png": "b4ff80cb5c12f2812ed248e179630587",
+"main.dart.js": "f440310fe667918f83cc415b0eedfe2c",
 "manifest.json": "95275fee483305a4fb0a71fa3024760a",
 "version.json": "4f023eac5a6b6395b4947ce5b1fb63ac"};
 // The application shell files that are downloaded before a service worker can
