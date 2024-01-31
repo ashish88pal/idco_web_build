@@ -104075,7 +104075,7 @@ k=(k==null?$.a=B.c:k).m(0,a,s).cy
 if(k==null)k=""}else k=""
 k=A.eH(p,k,12)
 p=$.a
-e=A.Q((p==null?$.a=B.c:p).m(0,a,s).p1[i].x?"In use":"-",a,a,a,B.z,a,a)
+e=A.Q((p==null?$.a=B.c:p).m(0,a,s).p1[i].x?"\uac00\uc785":"-",a,a,a,B.z,a,a)
 d=A.eX("yyyy.MM.dd")
 c=$.a
 j[i]=A.b([new A.aF(new A.ao(B.n,a,a,r,a),a),new A.aF(new A.ao(B.n,a,a,o,a),a),new A.aF(new A.ao(B.n,a,a,n,a),a),new A.aF(new A.ao(B.n,a,a,m,a),a),new A.aF(new A.ao(B.n,a,a,k,a),a),new A.aF(new A.ao(B.n,a,a,e,a),a),B.iq,B.ip,B.ip,new A.aF(new A.ao(B.n,a,a,A.Q(d.dW((c==null?$.a=B.c:c).m(0,a,s).p1[i].z),a,a,a,B.z,a,a),a),a),new A.aF(B.pk,new A.ahF(a2,i))],a3)}a3=j}a3=new A.hT(B.rU,a3,1200,a)}l.push(A.bF(a3,1,a))
@@ -104897,7 +104897,7 @@ k=(k==null?$.a=B.c:k).m(0,a,s).cy
 if(k==null)k=""}else k=""
 k=A.eH(p,k,12)
 p=$.a
-e=A.Q((p==null?$.a=B.c:p).m(0,a,s).p1[i].x?"In use":"-",a,a,a,B.z,a,a)
+e=A.Q((p==null?$.a=B.c:p).m(0,a,s).p1[i].x?"\uac00\uc785":"-",a,a,a,B.z,a,a)
 d=A.eX("yyyy.MM.dd")
 c=$.a
 j[i]=A.b([new A.aF(new A.ao(B.n,a,a,r,a),a),new A.aF(new A.ao(B.n,a,a,o,a),a),new A.aF(new A.ao(B.n,a,a,n,a),a),new A.aF(new A.ao(B.n,a,a,m,a),a),new A.aF(new A.ao(B.n,a,a,k,a),a),new A.aF(new A.ao(B.n,a,a,e,a),a),B.iq,B.ip,B.ip,new A.aF(new A.ao(B.n,a,a,A.Q(d.dW((c==null?$.a=B.c:c).m(0,a,s).p1[i].z),a,a,a,B.z,a,a),a),a),new A.aF(B.pk,new A.ar5(a2,i))],a3)}a3=j}a3=new A.hT(B.rU,a3,1200,a)}l.push(A.bF(a3,1,a))
